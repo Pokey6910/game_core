@@ -1,0 +1,3 @@
+/home/max/work_area/game_core/laboratory_work/cmake_dir/CMakeFiles/project_game.dir
+/home/max/work_area/game_core/laboratory_work/cmake_dir/CMakeFiles/edit_cache.dir
+/home/max/work_area/game_core/laboratory_work/cmake_dir/CMakeFiles/rebuild_cache.dir
